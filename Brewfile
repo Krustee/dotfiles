@@ -1,12 +1,9 @@
-# Taps
 tap "homebrew/bundle"
-
-# Brews (Packages)
 brew "bat"
 brew "exa"
+brew "git"
 brew "httpie"
-
-# Casks (Applications)
+cask "gitkraken"
 cask "google-chrome"
 cask "lastpass"
 cask "owncloud"
