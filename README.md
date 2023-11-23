@@ -9,6 +9,4 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](https://dotfiles.eieio.xyz).
 - Mission Control Preference
 - Finder Show Path Bar
 - Trackpad preferences
-- .zhrc
 - Git (config and SSH)
-- Homebrew install
