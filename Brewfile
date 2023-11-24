@@ -7,6 +7,8 @@ brew "exa"
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Mac App Store command-line interface
+brew "mas"
 # Git client focusing on productivity
 cask "gitkraken"
 # Web browser
@@ -19,3 +21,8 @@ cask "owncloud"
 cask "raycast"
 # Open-source code editor
 cask "visual-studio-code"
+mas "Consent-O-Matic", id: 1606897889
+mas "Keynote", id: 409183694
+mas "NotePlan", id: 1505432629
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
